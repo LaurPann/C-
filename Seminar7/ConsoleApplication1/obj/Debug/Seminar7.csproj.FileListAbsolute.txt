@@ -1,0 +1,2 @@
+C:\Users\Utilizator\Desktop\Seminar7\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Utilizator\Desktop\Seminar7\ConsoleApplication1\obj\Debug\Seminar7.csprojResolveAssemblyReference.cache
